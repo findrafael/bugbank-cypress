@@ -1,0 +1,17 @@
+{
+  "name": "rafael-bugbank-comchatgpt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.9.0",
+    "cypress-localstorage-commands": "^2.2.3",
+    "faker-br": "^0.4.1"
+  }
+}
